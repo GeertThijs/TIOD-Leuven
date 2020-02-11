@@ -3,7 +3,7 @@
   "name": "TIOD-IM",
   "type": "ap",
   "eap": "TIOD-IM.eap",
-  "diagram": "OSLO-MijnApplicatieprofiel",
+  "diagram": "TIOD-Leuven",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "TIOD Implementatiemodel",
   "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
