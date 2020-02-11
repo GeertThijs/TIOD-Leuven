@@ -2,7 +2,7 @@
 {
   "name": "TIOD-IM",
   "type": "ap",
-  "eap": "TIOD-IM.eap",
+  "eap": "TIOD-IM.EAP",
   "diagram": "TIOD-Leuven",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "TIOD Implementatiemodel",
