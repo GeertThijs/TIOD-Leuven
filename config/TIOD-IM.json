@@ -5,7 +5,7 @@
   "eap": "TIOD-IM.EAP",
   "diagram": "TIOD-SimCity",
   "template": "mijn-applicatieprofiel-ap.j2",
-  "title": "TIOD Implementatiemodel test01",
+  "title": "TIOD Implementatiemodel",
   "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
   "publication-date": "28-04-2020",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
